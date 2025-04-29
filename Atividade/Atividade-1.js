@@ -10,10 +10,10 @@ while (continuar) {
     let numb = prompt("Escreva um numero")
     
     if (numb % 2) {
-    console.log("Impá")
+    console.log("ímpa")
     
 } else {
-    console.log ("pá")
+    console.log ("par")
 }
 
 let resposta = prompt("Gostaria de verificar outro numero? caso não queira digite sair")
