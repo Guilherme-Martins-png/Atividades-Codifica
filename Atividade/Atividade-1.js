@@ -21,5 +21,4 @@ let resposta = prompt("Gostaria de verificar outro numero? caso não queira digi
     continuar = false
 }
 
-
 }
